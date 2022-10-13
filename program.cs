@@ -21,6 +21,7 @@ class program{
         Console.Write("2 for show all current students");
         Console.Write("3 for show students");
         Console.Write("3 for show teachers");
+        Console.Write("3 for show teachers");
     }
    
 }
